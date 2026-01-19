@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/dkarunanayake/Documents/GitHub/MultijoueurTempsReel/Content/Variant_Shooter/Anims/ABP_FP_Pistol.uasset",
+				"C:/Users/dkarunanayake/Documents/GitHub/MultijoueurTempsReel/Content/Variant_Shooter/Anims/ABP_FP_Weapon.uasset",
+				"C:/Users/dkarunanayake/Documents/GitHub/MultijoueurTempsReel/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/dkarunanayake/Documents/GitHub/MultijoueurTempsReel/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+				"C:/Users/dkarunanayake/Documents/GitHub/MultijoueurTempsReel/Content/Variant_Shooter/Blueprints/BP_ShooterCharacter.uasset",
+				"C:/Users/dkarunanayake/Documents/GitHub/MultijoueurTempsReel/Content/Variant_Shooter/Blueprints/AI/BP_ShooterNPC.uasset",
+				"C:/Users/dkarunanayake/Documents/GitHub/MultijoueurTempsReel/Content/Input/Actions/IA_Shot.uasset",
+				"C:/Users/dkarunanayake/Documents/GitHub/MultijoueurTempsReel/Content/Input/IMC_Default.uasset",
+				"C:/Users/dkarunanayake/Documents/GitHub/MultijoueurTempsReel/Content/FirstPerson/Widget/WBP_HUD.uasset"
+			]
+		}
+	]
+}
