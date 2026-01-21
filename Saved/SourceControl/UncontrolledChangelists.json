@@ -13,7 +13,13 @@
 				"C:/Users/dkarunanayake/Documents/GitHub/MultijoueurTempsReel/Content/Variant_Shooter/Blueprints/AI/BP_ShooterNPC.uasset",
 				"C:/Users/dkarunanayake/Documents/GitHub/MultijoueurTempsReel/Content/Input/Actions/IA_Shot.uasset",
 				"C:/Users/dkarunanayake/Documents/GitHub/MultijoueurTempsReel/Content/Input/IMC_Default.uasset",
-				"C:/Users/dkarunanayake/Documents/GitHub/MultijoueurTempsReel/Content/FirstPerson/Widget/WBP_HUD.uasset"
+				"C:/Users/dkarunanayake/Documents/GitHub/MultijoueurTempsReel/Content/FirstPerson/Widget/WBP_HUD.uasset",
+				"C:/Users/dkarunanayake/Documents/GitHub/MultijoueurTempsReel/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/EG/CIZR6W2NYH4Y5P8G67XOU0.uasset",
+				"C:/Users/dkarunanayake/Documents/GitHub/MultijoueurTempsReel/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/B7/MLXVWI5DS8TICIRUHF9E15.uasset",
+				"C:/Users/dkarunanayake/Documents/GitHub/MultijoueurTempsReel/Content/FirstPerson/Lvl_FirstPerson.umap",
+				"C:/Users/dkarunanayake/Documents/GitHub/MultijoueurTempsReel/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/dkarunanayake/Documents/GitHub/MultijoueurTempsReel/Content/FirstPerson/Blueprints/BP_GameState.uasset",
+				"C:/Users/dkarunanayake/Documents/GitHub/MultijoueurTempsReel/Content/FirstPerson/Widget/WBP_EndScreen.uasset"
 			]
 		}
 	]
